@@ -35,7 +35,7 @@ app.post("/compose", function (req, res){
   console.log(req.body.textBox);
 });
 
-
+//Test
 
 app.listen(3000, function() {
   console.log("Server started on port 3000");
